@@ -15,12 +15,8 @@ function AddUser() {
   const token = "b1725623305917ted360289734es";
 
 
-  console.log(productName);
-  console.log(weight);
-  console.log(energy);
-  console.log(protine);
-  console.log(carbohydrate);
-  console.log(fat);
+  
+ 
 
   const Submit = async () => {
     try {
