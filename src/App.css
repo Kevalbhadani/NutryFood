@@ -1,0 +1,43 @@
+.Nutri-food{
+  width: 100%;
+  height: 95vh;
+  border: 1px solid black;
+  padding: 30px 20px;
+  margin:  20px auto;
+  position: relative;
+}
+
+.top-header{
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.top-header h2{
+  margin-left: 30px;
+}
+
+.top-header button{
+  margin-right: 30px;
+  font-weight: 600;
+}
+
+.Show-case{
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  display: flex;
+  gap: 20px;
+  
+}
+
+.from-grup{
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  align-items: center;
+  margin: 0px auto;
+}
